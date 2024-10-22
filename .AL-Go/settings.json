@@ -8,6 +8,6 @@
     "BingMaps.Test"
   ],
   "RepoVersion": "24.1",
-  "artifact": "//19.0//first",
-  "applicationDependency": "19.0.0.0"
+  "artifact": "//25.0//first",
+  "applicationDependency": "25.0.0.0"
 }
